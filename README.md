@@ -5,7 +5,7 @@
 - 🌎 &nbsp; Mexico.
 - 🤔 &nbsp; exploring the IT world.
 - 🎓 &nbsp; studying Software Engineering at Universidad Autónoma de Sinaloa.
-- 🌱 &nbsp; learning more about full stack development and cybersecurity.
+- 🌱 &nbsp; learning more about full stack development and desktop app programming.
 - 🎮 &nbsp; taking photos, listening to music and gaming as hobbies.
 
 <h3> 🛠 &nbsp;my tech stack </h3>
